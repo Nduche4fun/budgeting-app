@@ -1,7 +1,7 @@
 {
-  "name": "PesaSmart - Kenya Finance",
+  "name": "PesaSmart",
   "short_name": "PesaSmart",
-  "description": "Offline-first personal finance manager for Kenya.",
+  "description": "Your personal budgeting app.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0A0A0B",
@@ -45,4 +45,5 @@
     "method": "GET",
     "params": { "title": "title", "text": "text", "url": "url" }
   }
+
 }
